@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
-=======
-# management-of-own-home
-This project initiated on 29.08.2024 aims to facilitate the need of the owner of a house to have control over everything related to it:
->>>>>>> eb06fb474b19a08a95d1f76fbc3117c60fea797d
 
 <p align="center">
 <a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
